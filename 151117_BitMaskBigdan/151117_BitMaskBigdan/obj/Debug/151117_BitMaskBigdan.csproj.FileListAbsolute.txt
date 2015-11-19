@@ -7,3 +7,6 @@ D:\Labs\NET\LevelUp\151117_BitMaskBigdan\151117_BitMaskBigdan\obj\Debug\151117_B
 D:\Labs\NET\LevelUp\BigdanLevelUP\151117_BitMaskBigdan\151117_BitMaskBigdan\bin\Debug\151117_BitMaskBigdan.exe.config
 D:\Labs\NET\LevelUp\BigdanLevelUP\151117_BitMaskBigdan\151117_BitMaskBigdan\obj\Debug\151117_BitMaskBigdan.exe
 D:\Labs\NET\LevelUp\BigdanLevelUP\151117_BitMaskBigdan\151117_BitMaskBigdan\obj\Debug\151117_BitMaskBigdan.pdb
+D:\Labs\NET\LevelUp\BigdanLevelUP\151117_BitMaskBigdan\151117_BitMaskBigdan\bin\Debug\151117_BitMaskBigdan.exe
+D:\Labs\NET\LevelUp\BigdanLevelUP\151117_BitMaskBigdan\151117_BitMaskBigdan\bin\Debug\151117_BitMaskBigdan.pdb
+D:\Labs\NET\LevelUp\BigdanLevelUP\151117_BitMaskBigdan\151117_BitMaskBigdan\obj\Debug\151117_BitMaskBigdan.csprojResolveAssemblyReference.cache

@@ -5,14 +5,6 @@ namespace _151117_BitMaskBigdan
 {
     class Program
     {
-        //static int MON = 1;
-        //static int TUE = 2;
-        //static int WED = 3;
-        //static int THU = 4;
-        //static int FRI = 5;
-        //static int SAT = 6;
-        //static int SUN = 7;
-
         static void Main(string[] args)
         {
             int exit = 0;
