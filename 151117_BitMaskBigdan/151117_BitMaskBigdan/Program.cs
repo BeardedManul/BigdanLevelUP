@@ -7,12 +7,14 @@ namespace _151117_BitMaskBigdan
     {
         static void Main(string[] args)
         {
-            int exit = 0;
+            int exit = 0;   //Пока равна 0 работает основной цикл
             string day;
 
             while (exit == 0)
             {
-                int exit1 = 0;
+                int exit1 = 0;      //Пока равна 0 работает цикл ввода дня
+
+                // Переменные, отвечающие за дни недели
                 int MON = 0;
                 int TUE = 0;
                 int WED = 0;
@@ -20,7 +22,10 @@ namespace _151117_BitMaskBigdan
                 int FRI = 0;
                 int SAT = 0;
                 int SUN = 0;
-                int days = MON | TUE | WED | THU | FRI | SAT | SUN;
+
+                int days = MON | TUE | WED | THU | FRI | SAT | SUN;     //Переменная, в которой мы "зажигаем" биты
+
+                //Переменные, отвечающие за количество задач
                 int tasks_mon = 0;
                 int tasks_tue = 0;
                 int tasks_wed = 0;
@@ -46,7 +51,7 @@ namespace _151117_BitMaskBigdan
                 Console.WriteLine("выполненного Ростиславом Бигданом!");
                 Console.ReadKey();
 
-                while (exit1 == 0)
+                while (exit1 == 0)      //Цикл ввода дня и количества задач
                 {
                     Console.Clear();
                     Console.WriteLine("Будьте так любезны, введите день, в который у вас есть задачи:");
@@ -367,7 +372,10 @@ namespace _151117_BitMaskBigdan
                         }
                     }
                 }
-                if ((days & MON) != 0)
+
+                //Использование битовой маски для проверки "зажженности" битов
+
+                if ((days & MON) != 0)      
                 {
                     Console.WriteLine("У вас есть {0} задач в понедельник", tasks_mon);
                 }
