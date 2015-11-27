@@ -149,16 +149,19 @@ namespace _151123_Enums
                                     }
                                 }
                             }
+
                             if (d == Direction.South)
                             {
                                 Console.WriteLine("Я долго шел, проламываясь через сухие ветви, и вдруг{0}", action_main[x]);
                                 Console.ReadKey();
                             }
+
                             if (d == Direction.East)
                             {
                                 Console.WriteLine("Я долго шел, проламываясь через сухие ветви, и вдруг{0}", action_main[x]);
                                 Console.ReadKey();
                             }
+
                             if (d == Direction.North)
                             {
                                 Console.WriteLine("Я долго шел, проламываясь через сухие ветви, и вдруг{0}", action_main[x]);
@@ -214,6 +217,7 @@ namespace _151123_Enums
                                 }
                             }
                         }
+
                         Console.Clear();
                         Console.WriteLine("Я устал бродить по лесу кругами.");
                         Console.WriteLine("Я отбросил всякий здравый смысл и просто понесся сломя голову не разбирая дороги.");
