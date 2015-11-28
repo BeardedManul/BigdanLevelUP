@@ -1,6 +1,1 @@
 D:\Labs\NET\LevelUp\BigdanLevelUP\151123_Enums\151123_Enums\bin\Debug\151123_Enums.exe.config
-D:\Labs\NET\LevelUp\BigdanLevelUP\151123_Enums\151123_Enums\bin\Debug\151123_Enums.exe
-D:\Labs\NET\LevelUp\BigdanLevelUP\151123_Enums\151123_Enums\bin\Debug\151123_Enums.pdb
-D:\Labs\NET\LevelUp\BigdanLevelUP\151123_Enums\151123_Enums\obj\Debug\151123_Enums.csprojResolveAssemblyReference.cache
-D:\Labs\NET\LevelUp\BigdanLevelUP\151123_Enums\151123_Enums\obj\Debug\151123_Enums.exe
-D:\Labs\NET\LevelUp\BigdanLevelUP\151123_Enums\151123_Enums\obj\Debug\151123_Enums.pdb
